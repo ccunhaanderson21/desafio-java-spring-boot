@@ -1,0 +1,9 @@
+com\compasso\interfaces\ErrorMessage.class
+com\compasso\controller\ProductController.class
+com\compasso\DesafioJavaApplication.class
+com\compasso\entity\Product.class
+com\compasso\error\ProductNotFoundException.class
+com\compasso\interfaces\ProductRepository.class
+com\compasso\config\LoadDatabase.class
+com\compasso\constants\HttpResponseConstants.class
+com\compasso\error\ReturnErrorMessage.class
